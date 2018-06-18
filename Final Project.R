@@ -1,6 +1,4 @@
 #-----------------------------------------------------------------------------------------------
-#SCI 01 A - Introduction do Data Science - Team Heart
-#Team Member: Kishore and Vinicius
 #Dateset: Heart Disease Data Set (UCI Machine Learning Repository)
 #Description: Predict the presence of heart disease in the patients using 14 dataset attributes
 #-----------------------------------------------------------------------------------------------
